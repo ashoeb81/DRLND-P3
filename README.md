@@ -77,4 +77,4 @@ cd DRLND-P3
 
 7. Place the file in the DRLND-P3 folder and unzip (or decompress) the file.
 
-8. Train the agent using the notebook Tennis.ipynb.ipynb.
+8. Train the agent using the notebook Tennis.ipynb
